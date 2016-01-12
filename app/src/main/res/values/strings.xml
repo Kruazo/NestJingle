@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NestJingleApp</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="btn_action">Stop Jingle</string>
+    <string name="btn_wait">Wait for Jingle</string>
+    <string name="text_wait">"When anybody come to you, bell call you "</string>
+    <string name="text_action">Guest come to you</string>
+    <string name="ok">ok</string>
+</resources>
